@@ -1,0 +1,14 @@
+thingscrap.py : simple stupid thingiverse's thing scraper, leeching all thing's downloadable parts based on the thing ID (or maybe should work, but never tried..)
+
+$ ./thingscrap.py 4148
+fetching object 4148 (http://www.thingiverse.com/thing:4148)
+got thing "Prusa simplified mendel by prusajr", 8 parts
+downloading belt-clamp.stl at prusa_simplified_mendel_by_prusajr-Thingiverse_4148/belt-clamp.stl
+downloading bar-clamp.stl at prusa_simplified_mendel_by_prusajr-Thingiverse_4148/bar-clamp.stl
+downloading x-carriage.stl at prusa_simplified_mendel_by_prusajr-Thingiverse_4148/x-carriage.stl
+downloading coupling.stl at prusa_simplified_mendel_by_prusajr-Thingiverse_4148/coupling.stl
+downloading y-slider-better.stl at prusa_simplified_mendel_by_prusajr-Thingiverse_4148/y-slider-better.stl
+downloading z-motor-mount.stl at prusa_simplified_mendel_by_prusajr-Thingiverse_4148/z-motor-mount.stl
+downloading x-end-idler.stl at prusa_simplified_mendel_by_prusajr-Thingiverse_4148/x-end-idler.stl
+downloading x-end-motor.stl at prusa_simplified_mendel_by_prusajr-Thingiverse_4148/x-end-motor.stl
+
