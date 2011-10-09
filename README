@@ -1,4 +1,4 @@
-thingscrap.py : simple stupid thingiverse's thing scraper, leeching all thing's downloadable parts based on the thing ID (or maybe should work, but never tried..)
+thingscrap.py : simple stupid thingiverse's thing scraper, leeching all thing's downloadable parts based on the thing ID (or maybe URL should work, but never tried..)
 
 $ ./thingscrap.py 4148
 fetching object 4148 (http://www.thingiverse.com/thing:4148)
